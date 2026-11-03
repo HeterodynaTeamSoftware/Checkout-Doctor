@@ -32,12 +32,6 @@
 - **Wskazówki i raportowanie** — uporządkowany plan weryfikacji, historia skanów, porównania wyników oraz eksport raportów.
 - **Kontrola gotowości** — lista ręcznych scenariuszy do sprawdzenia przed wdrożeniem zmian w sklepie.
 
-## Zrzuty ekranu
-
-[**Zobacz galerię programu na stronie projektu**](https://heterodynateamsoftware.pl/projekty/checkout-doctor/)
-
-> Do zamieszczenia w tym repozytorium pozostają oryginalne zrzuty interfejsu z galerii strony projektu. Nie zastępujemy ich sztucznymi makietami.
-
 ## Instalacja
 
 1. Otwórz **[GitHub Releases](https://github.com/HeterodynaTeamSoftware/Checkout-Doctor/releases)** i pobierz paczkę ZIP wtyczki.
