@@ -19,6 +19,12 @@
 
 ---
 
+## Zrzuty ekranu
+
+![Heterodyna Checkout Doctor v1.16.0 — pulpit diagnostyczny](screeny/checkout-doctor.png)
+
+*Pulpit Checkout Doctor — podsumowanie diagnostyki procesu zakupowego WooCommerce.*
+
 ## O projekcie
 
 **Checkout Doctor** pomaga znaleźć przyczyny problemów z finalizacją zamówienia w WooCommerce. W jednym panelu zbiera wyniki kontroli konfiguracji, sygnały o możliwych konfliktach oraz wskazówki naprawcze. Standardowy skan nie wykonuje prawdziwych płatności ani nie wprowadza automatycznych zmian w sklepie.
