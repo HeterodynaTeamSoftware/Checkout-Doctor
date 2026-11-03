@@ -1,0 +1,33 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Local dependencies / build artifacts
+node_modules/
+vendor/
+coverage/
+.cache/
+*.log
+*.tmp
+*.bak
+*.orig
+
+# Local WordPress secrets, databases and backups
+wp-config.php
+.env
+.env.*
+!.env.example
+*.sql
+*.sql.gz
+*.sqlite
+*.sqlite3
+*.pem
+*.key
+
+# Release artifacts are distributed separately through GitHub Releases
+*.zip
+*.tar.gz
